@@ -1,0 +1,13 @@
+/bin/
+build/
+config/
+saves/
+crash-reports/
+logs/
+mods/
+resourcepacks/
+saves/
+options.txt
+usercache.json
+usernamecache.json
+.gradle/
